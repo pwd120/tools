@@ -1,39 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1"  tvg-logo="http://www.wangjiuling.com/img/CCTV-1.png" group-title="CCTV央视",CCTV1-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1.png" tvg-name="CCTV1" group-title="CCTV央视",CCTV1-HD
 http://v.wangjiuling.com/tv?sv=1l1ad90Tg0iVbI7eDXda
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://www.wangjiuling.com/img/CCTV-2.png" group-title="CCTV央视",CCTV2-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2.png" tvg-name="CCTV2" group-title="CCTV央视",CCTV2-HD
 http://v.wangjiuling.com/tv?sv=dW3naVjFyXFWzsdjX9re
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://www.wangjiuling.com/img/CCTV-3.png" group-title="CCTV央视",CCTV3-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3.png" tvg-name="CCTV3" group-title="CCTV央视",CCTV3-HD
 http://v.wangjiuling.com/tv?sv=9OdwXJJUvJCywCK9YA2J
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://www.wangjiuling.com/img/CCTV-4.png" group-title="CCTV央视",CCTV4-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4.png" tvg-name="CCTV4" group-title="CCTV央视",CCTV4-HD
 http://v.wangjiuling.com/tv?sv=M0BjXJbC8MI9oflboyqN
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://www.wangjiuling.com/img/CCTV-5.png" group-title="CCTV央视",CCTV5-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5.png" tvg-name="CCTV5" group-title="CCTV央视",CCTV5-HD
 http://v.wangjiuling.com/tv?sv=RWK9NJDceoTKXcaLP1pK
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://www.wangjiuling.com/img/CCTV-6.png" group-title="CCTV央视",CCTV6-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6.png" tvg-name="CCTV6" group-title="CCTV央视",CCTV6-HD
 http://v.wangjiuling.com/tv?sv=7oOA9JatqJib6CBy7Ngd
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://www.wangjiuling.com/img/CCTV-7.png" group-title="CCTV央视",CCTV7-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7.png" tvg-name="CCTV7" group-title="CCTV央视",CCTV7-HD
 http://v.wangjiuling.com/tv?sv=pgjPmdvIqlirNCdLBmwo
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://www.wangjiuling.com/img/CCTV-8.png" group-title="CCTV央视",CCTV8-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8.png" tvg-name="CCTV8" group-title="CCTV央视",CCTV8-HD
 http://v.wangjiuling.com/tv?sv=vgymPA9iv9COQfW0m8Ow
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://www.wangjiuling.com/img/CCTV-9.png" group-title="CCTV央视",CCTV9-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9.png" tvg-name="CCTV9" group-title="CCTV央视",CCTV9-HD
 http://v.wangjiuling.com/tv?sv=OnzXyJOFlgTmzSNLQ30w
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://www.wangjiuling.com/img/CCTV-10.png" group-title="CCTV央视",CCTV10-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10.png" tvg-name="CCTV10" group-title="CCTV央视",CCTV10-HD
 http://v.wangjiuling.com/tv?sv=b3w0aKRiNbIQJINQqzOg
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://www.wangjiuling.com/img/CCTV-11.png" group-title="CCTV央视",CCTV11-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-11.png" tvg-name="CCTV11" group-title="CCTV央视",CCTV11-HD
 http://v.wangjiuling.com/tv?sv=8bg0lJ3sXJiboCWQ7J9m
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://www.wangjiuling.com/img/CCTV-12.png" group-title="CCTV央视",CCTV12-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12.png" tvg-name="CCTV12" group-title="CCTV央视",CCTV12-HD
 http://v.wangjiuling.com/tv?sv=an0AaDmcOPiB4cpJlg67
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://www.wangjiuling.com/img/CCTV-13.png" group-title="CCTV央视",CCTV13-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13.png" tvg-name="CCTV13" group-title="CCTV央视",CCTV13-HD
 http://v.wangjiuling.com/tv?sv=Jr3mXJmSpQfw2IvRroxB
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://www.wangjiuling.com/img/CCTV-14.png" group-title="CCTV央视",CCTV14-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14.png" tvg-name="CCTV14" group-title="CCTV央视",CCTV14-HD
 http://v.wangjiuling.com/tv?sv=NwLqNJ9UD9Uw9ILb1a6p
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://www.wangjiuling.com/img/CCTV-15.png" group-title="CCTV央视",CCTV15-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15.png" tvg-name="CCTV15" group-title="CCTV央视",CCTV15-HD
 http://v.wangjiuling.com/tv?sv=lqKDY3PH0Bu2AHeJ8xEj
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png" group-title="CCTV央视",CCTV5+HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png" tvg-name="CCTV5+" group-title="CCTV央视",CCTV5+HD
 http://v.wangjiuling.com/tv?sv=QYDdabycAoFEPcJ4YynN
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://www.wangjiuling.com/img/cctv4k.png" group-title="CCTV央视",CCTV-4K
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png" tvg-name="CCTV4K" group-title="CCTV央视",CCTV-4K
 http://v.wangjiuling.com/tv?sv=8bg0lmJtXJiboCWQ7J9m
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://www.wangjiuling.com/img/beijingweishia.png" group-title="CN卫视",北京卫视HD
-http://v.wangjiuling.com/tv?sv=ARq4X9lHWOF6yc0O2vJa
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png" group-title="CN卫视",东方卫视HD
-http://v.wangjiuling.com/tv?sv=0Lx8vm2ieNT0AhoQxYKL
