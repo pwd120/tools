@@ -31,6 +31,8 @@ http://192.168.6.1:2212/udp/225.1.1.24:5002
 http://192.168.6.1:2212/udp/225.1.1.144:5002
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/15HD.png" tvg-name="CCTV15" group-title="央视",CCTV-15音乐高清
 http://v.wangjiuling.com/tv?sv=lqKDY3PH0Bu2AHeJ8xEj
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png” tvg-name="CCTV4K" group-title="IPTV",CCTV4K
+http://cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8
 #EXTINF:-1 tvg-name="4K超清影视" group-title="电影",4K超清影视
 http://192.168.6.1:2212/udp/225.1.1.156:5002
 #EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" tvg-name="DOX映画" group-title="电影",DOX映画高清
@@ -153,19 +155,19 @@ http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8
 http://iptv.pdsu.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/ws/beijingjishi.png" tvg-name="北京纪实" group-title="IPTV",北京纪实高清
 http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/gt/223-natgeo.png" tvg-name="国家地理频道“ group-title="IPTV",国家地理频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/gt/223-natgeo.png" tvg-name="国家地理频道" group-title="IPTV",国家地理频道
 http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/channelv.png” tvg-name="Channel[V]“ group-title="IPTV",Channel[V]
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/channelv.png” tvg-name="Channel[V]" group-title="IPTV",Channel[V]
 http://iptv.pdsu.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/ws/shanghaijishi.png” tvg-name="上海纪实“ group-title="IPTV",上海纪实高清
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/ws/shanghaijishi.png” tvg-name="上海纪实" group-title="IPTV",上海纪实高清
 http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/ws/jinyingjishi.png” tvg-name="金鹰纪实“ group-title="IPTV",金鹰纪实高清
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/ws/jinyingjishi.png” tvg-name="金鹰纪实" group-title="IPTV",金鹰纪实高清
 http://iptv.pdsu.edu.cn/hls/gedocu.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/gt/19-DiscoveryHD.png” tvg-name="Discovery“ group-title="IPTV",Discovery
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/gt/19-DiscoveryHD.png” tvg-name="Discovery" group-title="IPTV",Discovery
 http://iptv.pdsu.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/gt/223-natgeo.png” tvg-name="国家地理频道“ group-title="IPTV",国家地理频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/gt/223-natgeo.png” tvg-name="国家地理频道" group-title="IPTV",国家地理频道
 http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/ws/starsports.png” tvg-name="starsports“ group-title="IPTV",卫视体育台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/ws/starsports.png” tvg-name="starsports" group-title="IPTV",卫视体育台
 http://iptv.pdsu.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-logo="” tvg-name="“ group-title="IPTV",大众影视高清
 http://tv.ncwu.edu.cn/hls/dzyshd.m3u8
@@ -175,5 +177,19 @@ http://tv.ncwu.edu.cn/hls/jtyyhd.m3u8
 http://tv.ncwu.edu.cn/hls/jtjchd.m3u8
 #EXTINF:-1 tvg-logo="” tvg-name="“ group-title="IPTV",足球频道高清
 http://tv.ncwu.edu.cn/hls/zqhd.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png” tvg-name="CCTV4K“ group-title="IPTV",CCTV4K
-http://cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/xinshijuec.png" tvg-name="新视觉" group-title="IPTV",新视觉HD
+http://v.wangjiuling.com/tv?sv=Dlq28JosPycpOIEBpVvN
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/Jinbaotiyu.png" tvg-name="劲爆体育" group-title="IPTV",劲爆体育
+http://v.wangjiuling.com/tv?sv=V49pam6CVNS79FDP1vEm
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png" tvg-name="凤凰卫视" group-title="香港",凤凰卫视HD
+http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png" tvg-name="凤凰资讯" group-title="香港",凤凰资讯HD
+http://124.232.231.247:6610/000000001001/201500000231/index.m3u8?
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/hbohd.png" tvg-name="HBO HD" group-title="香港",HBO HD
+http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png" tvg-name="翡翠台" group-title="香港",翡翠台HD
+http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png" tvg-name="TVBS 新闻台" group-title="香港",TVB无线新闻台
+http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png" tvg-name="明珠台" group-title="香港",TVB明珠台
+http://v.wangjiuling.com/tv?sv=DPbIPycpOIExvPRb
