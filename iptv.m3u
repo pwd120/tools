@@ -35,21 +35,21 @@ http://v.wangjiuling.com/tv?sv=lqKDY3PH0Bu2AHeJ8xEj
 http://cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8
 #EXTINF:-1 tvg-name="4K超清影视" group-title="电影",4K超清影视
 http://192.168.6.1:2212/udp/225.1.1.156:5002
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" tvg-name="DOX映画" group-title="电影",DOX映画高清
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav2.png" tvg-name="DOX映画" group-title="电影",DOX映画高清
 http://192.168.6.1:2212/udp/225.1.1.238:5002
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" tvg-name="DOX英伦" group-title="电影",DOX英伦高清
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav13.png" tvg-name="DOX英伦" group-title="电影",DOX英伦高清
 http://192.168.6.1:2212/udp/225.1.1.242:5002
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" tvg-name="DOX怡家" group-title="电影",DOX怡家高清
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav12.png" tvg-name="DOX怡家" group-title="电影",DOX怡家高清
 http://192.168.6.1:2212/udp/225.1.1.243:5002
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" tvg-name="DOX环映" group-title="电影",DOX环映高清
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav5.png" tvg-name="DOX环映" group-title="电影",DOX环映高清
 http://192.168.6.1:2212/udp/225.1.1.244:5002
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" tvg-name="DOX新知" group-title="电影",DOX新知高清
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav7.png" tvg-name="DOX新知" group-title="电影",DOX新知高清
 http://192.168.6.1:2212/udp/225.1.1.240:5002
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" tvg-name="DOX新艺" group-title="电影",DOX新艺高清
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav10.png" tvg-name="DOX新艺" group-title="电影",DOX新艺高清
 http://192.168.6.1:2212/udp/225.1.1.241:5002
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" tvg-name="DOX剧场" group-title="电影",DOX剧场高清
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav8.png" tvg-name="DOX剧场" group-title="电影",DOX剧场高清
 http://192.168.6.1:2212/udp/225.1.1.239:5002
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" tvg-name="DOX雅趣" group-title="电影",DOX雅趣高清
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav6.png" tvg-name="DOX雅趣" group-title="电影",DOX雅趣高清
 http://192.168.6.1:2212/udp/225.1.1.245:5002
 #EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/chcgaoqinga.png" tvg-name="CHC高清电影" group-title="电影",CHC高清电影
 http://192.168.6.1:2212/udp/225.1.1.214:5002
