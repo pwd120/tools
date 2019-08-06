@@ -181,15 +181,23 @@ http://tv.ncwu.edu.cn/hls/jtyyhd.m3u8
 http://tv.ncwu.edu.cn/hls/jtjchd.m3u8
 #EXTINF:-1 tvg-logo="” tvg-name="“ group-title="IPTV",足球频道高清
 http://tv.ncwu.edu.cn/hls/zqhd.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/xinshijuec.png" tvg-name="新视觉" group-title="IPTV",新视觉HD
-http://v.wangjiuling.com/tv?sv=Dlq28JosPycpOIEBpVvN
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/Jinbaotiyu.png" tvg-name="劲爆体育" group-title="IPTV",劲爆体育
-http://v.wangjiuling.com/tv?sv=V49pam6CVNS79FDP1vEm
 #EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/hbohd.png" tvg-name="HBO HD" group-title="香港",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png" tvg-name="翡翠台" group-title="香港",翡翠台HD
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png" tvg-name="翡翠台" group-title="香港",翡翠台HD
 http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png" tvg-name="TVBS 新闻台" group-title="香港",TVB无线新闻台
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png" tvg-name="TVBS 新闻台" group-title="香港",TVB无线新闻台
 http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png" tvg-name="明珠台" group-title="香港",TVB明珠台
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png" tvg-name="明珠台" group-title="香港",TVB明珠台
 http://v.wangjiuling.com/tv?sv=DPbIPycpOIExvPRb
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/Viu.png" tvg-name="ViuTV" group-title="香港",ViuTV
+http://220.246.167.173:8080/1.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" tvg-name="ViuTVsix" group-title="香港",ViuTVsix
+http://220.246.167.173:8080/3.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png" tvg-name="TVB-TVB1" group-title="香港",翡翠台
+http://c01.live.aliyuncdn.sharkselection.com/live/eeessssreeee333.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png" tvg-name="TVB-J2" group-title="香港",TVB J2台
+http://c01.live.aliyuncdn.sharkselection.com/live/rreessjj22ggssllll.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png" tvg-name="有線新聞台" group-title="香港",有線新聞台
+http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
+#EXTINF:-1, tvg-logo="",tvg-id="HKSTV-HKS" tvg-name="香港开电视" group-title="香港", 香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
