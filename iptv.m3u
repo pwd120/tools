@@ -197,3 +197,39 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://202.40.202.173:8000/main
 #EXTINF:-1, tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg" tvg-name="HKSTV-HKS" group-title="港澳台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png" tvg-name="中视"  group-title="港澳台",中视HD
+http://202.39.28.229:8113/0.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/minshi.png" tvg-name="民视台湾台" group-title="港澳台",民视HD
+http://202.39.28.229:8114/0.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/gongshi.png" tvg-name="公视" group-title="港澳台",公视HD
+http://202.39.28.229:8115/0.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/huashi.png" tvg-name="华视新闻" group-title="港澳台",华视新闻
+http://202.39.28.229:8112/0.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/taishi.png" tvg-name="台视新闻台" group-title="港澳台",台视新闻
+http://202.39.28.229:8111/0.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/tvbshuanle.png" tvg-name="TVBS欢乐台" group-title="港澳台",TVBS欢乐
+http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png" tvg-name="TVBS 新闻台" group-title="港澳台",TVBS新闻
+http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/sanliduhuitai.png" tvg-name="三立都会台" group-title="港澳台",三立都會
+http://60.250.69.26:8080/live/setcity9785.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixinwen.png" tvg-name="三立新闻台" group-title="港澳台",三立新闻
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/sanliduhuitai.png" tvg-name="三立都会台" group-title="港澳台",三立都會
+http://202.39.28.229:8118/0.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/sanlitaiwantai.png" tvg-name="三立台湾台" group-title="港澳台",三立台湾
+http://202.39.28.229:8119/0.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png" tvg-name="东森综合台" group-title="港澳台",东森综合
+http://202.39.28.229:8116/0.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png" tvg-name="东森超视" group-title="港澳台",东森超视
+http://202.39.28.229:8117/0.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/zhongtianzonghe.png" tvg-name="中天综合台" group-title="港澳台",中天综合
+http://60.250.69.26:8080/live/cti9785.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png" tvg-name="中天娱乐台" group-title="港澳台",中天娱乐
+http://122.146.68.116:4007/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gtvbadazonghetai.png" tvg-name="八大综合台" group-title="港澳台",八大综合
+http://60.251.37.44:8080/live/gtv7659.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/starplus.png" tvg-name="star world" group-title="港澳台",star world
+http://202.39.28.229:8127/0.ts
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/StarEntertainment.png" tvg-name="星卫娱乐台" group-title="港澳台",星卫娱乐台
+http://202.39.28.229:8123/0.ts
